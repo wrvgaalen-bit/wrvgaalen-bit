@@ -4,7 +4,8 @@ I build Python trading bots that connect TradingView, Telegram and crypto exchan
 
 **Projects**
 - [TradingView Webhook Bot](https://github.com/wrvgaalen-bit/tradingview-webhook-bot): TradingView alerts → exchange orders, with safety checks and tests
-
+- [Telegram Alert Bot](https://github.com/wrvgaalen-bit/telegram-alert-bot): price, RSI and EMA cross alerts sent straight to Telegram
+  
 **What I can build for you**
 - TradingView alert → exchange order bots (webhooks, ccxt)
 - Telegram price & indicator alert bots
